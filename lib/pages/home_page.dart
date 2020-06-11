@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http; //Don't forget to install the http pack
 import 'dart:async';
 import 'dart:convert';
 
-const request = /*Before debugging, use the website https://api.hgbrasil.com
+const request = /*Before debugging, use the website https://hgbrasil.com/status/finance
 and put your API key here.*/
 
 Future<Map> getData() async {
