@@ -1,16 +1,19 @@
-# currency_converter
+<h1>Currency converter app project made with the Flutter framework.</h1>
 
-A new Flutter project.
+<p style="text-align:justify">Currency conversion app made in Flutter for individual use. The HG Brasil services portal website was used, using its finance API, and consuming it in real time. The values of the Real (R$), the Dollar (US$) and the Euro (€$) were obtained through this API, and are converted at the same time.<p>
+  
+<h2>Motivation</h2>
 
-## Getting Started
+<p>Project developed to learn how to consume an API using Flutter, project carried out without the use of design patterns.</p>
 
-This project is a starting point for a Flutter application.
+<h2>Prerequisites</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<p>To run the app it is necessary to have the:</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<a href="https://pub.dev/packages/http">Http package</a>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://hgbrasil.com/status/finance">The API key</a>
+
+<h2>App BMI Calculator</h2>
+
+![Alt text](https://github.com/eliziariodm/gifs_and_images/blob/master/bmi_calculator.gif?raw=true "App BMI Calculator")
