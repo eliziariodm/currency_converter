@@ -16,4 +16,4 @@
 
 <h2>App Currency converter</h2>
 
-![Alt text](https://github.com/eliziariodm/gifs_and_images/blob/master/bmi_calculator.gif?raw=true "App BMI Calculator")
+![Alt text](https://github.com/eliziariodm/gifs_and_images/blob/master/currency_converter.gif?raw=true "App Currency converter")
