@@ -14,6 +14,6 @@
 
 <a href="https://hgbrasil.com/status/finance">The API key</a>
 
-<h2>App Currency converter</h2>
+<h2>App Currency Converter</h2>
 
 ![Alt text](https://github.com/eliziariodm/gifs_and_images/blob/master/currency_converter.gif?raw=true "App Currency converter")
